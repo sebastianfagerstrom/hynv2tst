@@ -1,0 +1,13 @@
+# This file is for declaring the variables that will be used for mean value calculation
+# Enter the each value in specified format
+# SYSTEM NAME | Pointer to result array 
+# SYSTEM NAME | Pointer to value | Mean value calculation period (sek)
+#
+System1 HYNV2TST-System1-Result
+System1 HYNV2TST-System1-Av1.ActualValue
+System1 HYNV2TST-System1-Ai1.ActualValue
+#
+System2 HYNV2TST-System2-Result
+System2 HYNV2TST-System2-Av2.ActualValue
+System2 HYNV2TST-System2-Ai2.ActualValue
+#
